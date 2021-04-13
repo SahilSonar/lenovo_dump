@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ecc_xml version="1">
+    <!-- China -->
+    <EccEntry iso="cn" ecc_sim_special="110,119,120,122" ecc_normal_sim="08,000,999,118" ecc_no_sim="110,119,120,122"/>
+    <!-- France -->
+    <EccEntry iso="fr" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Germany -->
+    <EccEntry iso="de" ecc_sim_special="110" ecc_no_sim="110"/>
+    <!-- Italy -->
+    <EccEntry iso="it" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Austria -->
+    <EccEntry iso="at" ecc_sim_special="122,133" ecc_normal_sim="" ecc_no_sim="122,133"/>
+    <!-- United Kingdom -->
+    <EccEntry iso="gb" ecc_sim_special="999" ecc_no_sim="999"/>
+    <!-- Russia -->
+    <EccEntry iso="ru" ecc_sim_special="101,102,103,104" ecc_no_sim="101,102,103,104"/>
+    <!-- Ukraine -->
+    <EccEntry iso="ua" ecc_sim_special="101,102,103,104" ecc_no_sim="101,102,103,104"/>
+    <!-- Turkey -->
+    <EccEntry iso="tr" ecc_sim_special="110,155,154,156,158" ecc_no_sim="110,155,154,156,158"/>
+    <!-- Poland -->
+    <EccEntry iso="pl" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Hungary -->
+    <EccEntry iso="hu" ecc_normal_sim="104,105,107" ecc_no_sim="104,105,107"/>
+    <!-- Romania -->
+    <EccEntry iso="ro" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Bulgaria -->
+    <EccEntry iso="bg" ecc_normal_sim="150,166,160" ecc_no_sim="150,166,160"/>
+    <!-- Greece -->
+    <EccEntry iso="gr" ecc_sim_special="100,166,199,191,108,109,171,197" ecc_no_sim="100,166,199,191,108,109,171,197"/>
+    <!-- Croatia -->
+    <EccEntry iso="hr" ecc_sim_special="194,192,193" ecc_no_sim="194,192,193"/>
+    <!-- Slovenia -->
+    <EccEntry iso="si" ecc_sim_special="113" ecc_no_sim="113"/>
+    <!-- Slovakia -->
+    <EccEntry iso="sk" ecc_sim_special="150,155,158,159" ecc_no_sim="150,155,158,159"/>
+    <!-- Cyprus -->
+    <EccEntry iso="cy" ecc_sim_special="199" ecc_no_sim="199"/>
+    <!-- Serbia -->
+    <EccEntry iso="rs" ecc_sim_special="194,192,193" ecc_no_sim="194,192,193"/>
+    <!-- Czech Republic -->
+    <EccEntry iso="cz" ecc_sim_special="158,155,150,156" ecc_no_sim="158,155,150,156"/>
+    <!-- Spain -->
+    <EccEntry iso="es" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Switzerland -->
+    <EccEntry iso="ch" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Portugal -->
+    <EccEntry iso="pt" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Netherlands -->
+    <EccEntry iso="nl" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Belgium -->
+    <EccEntry iso="be" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Sweden -->
+    <EccEntry iso="se" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Denmark -->
+    <EccEntry iso="dk" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Norway -->
+    <EccEntry iso="no" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Finland -->
+    <EccEntry iso="fi" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Estonia -->
+    <EccEntry iso="ee" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Latvia -->
+    <EccEntry iso="lv" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Lithuania -->
+    <EccEntry iso="lt" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Iceland -->
+    <EccEntry iso="is" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Egypt -->
+    <EccEntry iso="eg" ecc_sim_special="122,123,180" ecc_no_sim="122,123,180"/>
+    <!-- Lebanon -->
+    <EccEntry iso="lb" ecc_sim_special="140,175,160" ecc_no_sim="140,175,160"/>
+    <!-- SouthAfrica -->
+    <EccEntry iso="za" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Morocco -->
+    <EccEntry iso="ma" ecc_sim_special="19,15" ecc_no_sim="19,15"/>
+    <!-- Tunisia -->
+    <EccEntry iso="tn" ecc_sim_special="197,198,190" ecc_no_sim="197,198,190"/>
+    <!-- Mauritius -->
+    <EccEntry iso="mu" ecc_sim_special="114,115,999,995" ecc_no_sim="114,115,999,995"/>
+    <!-- Mozambique -->
+    <EccEntry iso="mz" ecc_sim_special="119,198" ecc_no_sim="119,198"/>
+    <!-- Israel -->
+    <EccEntry iso="il" ecc_sim_special="100,101,102" ecc_no_sim="100,101,102"/>
+    <!-- Saudi Arabia -->
+    <EccEntry iso="sa" ecc_sim_special="999,998,997,996,993" ecc_no_sim="999,998,997,996,993"/>
+    <!-- United Arab Emirates -->
+    <EccEntry iso="ae" ecc_sim_special="999,998,997" ecc_no_sim="999,998,997"/>
+    <!-- Jordan -->
+    <EccEntry iso="jo" ecc_sim_special="199,191,196" ecc_no_sim="199,191,196"/>
+    <!-- Kenya -->
+    <EccEntry iso="ke" ecc_sim_special="999" ecc_no_sim="999"/>
+    <!-- Nigeria -->
+    <EccEntry iso="ng" ecc_sim_special="767" ecc_no_sim="767"/>
+    <!-- Uganda -->
+    <EccEntry iso="ug" ecc_sim_special="999" ecc_no_sim="999"/>
+    <!-- Ghana -->
+    <EccEntry iso="gh" ecc_sim_special="999,191,193,192" ecc_no_sim="999,191,193,192"/>
+    <!-- Oman -->
+    <EccEntry iso="om" ecc_sim_special="999" ecc_no_sim="999"/>
+    <!-- Tanzania -->
+    <EccEntry iso="tz" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Namibia -->
+    <EccEntry iso="na" ecc_sim_special="10111" ecc_no_sim="10111"/>
+    <!-- UnitedStatesOfAmerica -->
+    <EccEntry iso="us" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Canada -->
+    <EccEntry iso="ca" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Panama -->
+    <EccEntry iso="pa" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- CostaRica -->
+    <EccEntry iso="cr" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Venezuela -->
+    <EccEntry iso="ve" ecc_sim_special="171,166" ecc_no_sim="171,166"/>
+    <!-- Peru -->
+    <EccEntry iso="pe" ecc_sim_special="105,115,116,117" ecc_no_sim="105,115,116,117"/>
+    <!-- Uruguay -->
+    <EccEntry iso="uy" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Ecuador -->
+    <EccEntry iso="ec" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Colombia -->
+    <EccEntry iso="co" ecc_sim_special="123" ecc_no_sim="123"/>
+    <!-- Mexico -->
+    <EccEntry iso="mx" ecc_sim_special="060,066" ecc_no_sim="060,066"/>
+    <!-- Chile -->
+    <EccEntry iso="cl" ecc_sim_special="133,131,132" ecc_no_sim="133,131,132"/>
+    <!-- Argentina -->
+    <EccEntry iso="ar" ecc_sim_special="" ecc_no_sim=""/>
+    <!-- Australia -->
+    <EccEntry iso="au" ecc_normal_sim="000" ecc_no_sim="000"/>
+    <!-- New Zaeland -->
+    <EccEntry iso="nz" ecc_sim_special="111" ecc_no_sim="111"/>
+    <!-- Japan -->
+    <EccEntry iso="jp" ecc_sim_special="" ecc_normal_sim="" ecc_no_sim=""/>
+    <!-- Taiwan -->
+    <EccEntry iso="tw" ecc_sim_special="110,119" ecc_no_sim="110,119"/>
+    <!-- Indonesia -->
+    <EccEntry iso="id" ecc_sim_special="110,118,119,113,1131,115,129" ecc_no_sim="110,118,119,113,1131,115,129"/>
+    <!-- Vietnam -->
+    <EccEntry iso="vn" ecc_sim_special="113,115,114" ecc_no_sim="113,115,114"/>
+    <!-- India -->
+    <EccEntry iso="in" ecc_sim_special="100,101,102,103,108" ecc_no_sim="100,101,102,103,108"/>
+    <!-- Pakistan -->
+    <EccEntry iso="pk" ecc_sim_special="15,16,1122,1717,130,115" ecc_no_sim="15,16,1122,1717,130,115"/>
+    <!-- Malaysia -->
+    <EccEntry iso="my" ecc_sim_special="999,991,994" ecc_no_sim="999,991,994"/>
+    <!-- Thailand -->
+    <EccEntry iso="th" ecc_sim_special="191,1669,199,1646" ecc_no_sim="191,1669,199,1646"/>
+    <!-- Philippines -->
+    <EccEntry iso="ph" ecc_sim_special="117,136,163,143,134,132,133" ecc_no_sim="117,136,163,143,134,132,133"/>
+    <!-- Singapore -->
+    <EccEntry iso="sg" ecc_sim_special="999,995" ecc_no_sim="999,995"/>
+    <!-- Hong Kong -->
+    <EccEntry iso="hk" ecc_sim_special="999,992" ecc_no_sim="999,992"/>
+    <!-- Korea -->
+    <EccEntry iso="kr" ecc_sim_special="111,113,117,118,119,122,125" ecc_no_sim="111,113,117,118,119,122,125"/>
+</ecc_xml>
+

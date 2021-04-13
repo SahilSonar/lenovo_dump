@@ -1,0 +1,7 @@
+#must be started with vs. or persist.vs.
+vs.product.locale.region=
+vs.product.locale.language=
+persist.sys.language = en
+persist.sys.country = GB
+ro.lenovo.easyimage.code=GB
+ro.product.countrycode=GB

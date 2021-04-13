@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<iso_ecc_xml version="1">
+    <!-- China -->
+    <EccEntry iso="cn" ecc_no_sim="112,911,110,118,119,120,122,999,000,08"/>
+    <!-- Egypt -->
+    <EccEntry iso="eg" ecc_no_sim="112,911,122,123,180"/>
+    <!-- South Africa -->
+    <EccEntry iso="za" ecc_no_sim="112,911"/>
+    <!-- Mauritius -->
+    <EccEntry iso="mu" ecc_no_sim="112,911,114,115,999,995"/>
+    <!-- Mozambique -->
+    <EccEntry iso="mz" ecc_no_sim="112,911,119,198"/>
+    <!-- Saudi Arabia -->
+    <EccEntry iso="sa" ecc_no_sim="112,911,999,998,997,996,993"/>
+    <!-- United Arab Emirates -->
+    <EccEntry iso="ae" ecc_no_sim="112,911,999,998,997"/>
+    <!-- Pakistan -->
+    <EccEntry iso="pk" ecc_no_sim="112,911,15,16,1122,1717,130,115"/>
+    <!-- Peru -->
+    <EccEntry iso="pe" ecc_no_sim="112,911,105,115,116,117"/>
+    <!-- Uruguay -->
+    <EccEntry iso="uy" ecc_no_sim="112,911"/>
+    <!-- Colombia -->
+    <EccEntry iso="co" ecc_no_sim="112,911,123"/>
+    <!-- Mexico -->
+    <EccEntry iso="mx" ecc_no_sim="112,911,060,066"/>
+    <!-- Chile -->
+    <EccEntry iso="cl" ecc_no_sim="112,911,133"/>
+    <!-- Argentina -->
+    <EccEntry iso="ar" ecc_no_sim=""/>
+    <!-- India -->
+    <EccEntry iso="in" ecc_no_sim="112,911,100,102,108,101,103"/>
+    <!-- Philippines -->
+    <EccEntry iso="ph" ecc_no_sim="112,911,117,136,163,143,134,132,133"/>
+</iso_ecc_xml>
+

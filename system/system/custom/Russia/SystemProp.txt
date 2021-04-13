@@ -1,0 +1,13 @@
+#must be started with vs. or persist.vs.
+vs.product.locale.region=
+vs.product.locale.language=
+persist.sys.language = ru
+#bug 266577,zhaoshaofang.wt,modify,20170527
+ro.lenovo.easyimage.code=RU
+ro.product.countrycode=RU
+persist.sys.country = RU
+#bug_255441,zhangjinjin.wt,add
+persist.sys.phone_match=10
+#extb ANDYFOUR-1299,lisibo.wt,20170728
+persist.sys.timezone=Europe/Moscow
+

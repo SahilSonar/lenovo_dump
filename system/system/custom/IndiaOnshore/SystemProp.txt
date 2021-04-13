@@ -1,0 +1,10 @@
+#must be started with vs. or persist.vs.
+vs.product.locale.region=
+vs.product.locale.language=
+#bug 266577,zhaoshaofang.wt,modify,20170527
+ro.lenovo.easyimage.code=IN
+ro.product.countrycode=IN
+persist.sys.language = en
+persist.sys.country = IN
+#bug384123, jiahainan.wt, add, 20181018
+persist.sys.phone_match=10

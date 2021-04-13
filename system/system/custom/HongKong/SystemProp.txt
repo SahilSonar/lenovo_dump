@@ -1,0 +1,10 @@
+#must be started with vs. or persist.vs.
+vs.product.locale.region=
+vs.product.locale.language=
+ro.lenovo.easyimage.code=HK
+ro.product.countrycode=HK
+#+bug 522859,xiongsen.wt,add,20191219,【香港定制】默认语言 Traditional Chinese, HongKong (zh_HK)
+persist.sys.language = zh
+persist.sys.country = HK
+#-bug 522859,xiongsen.wt,add,20191220,【香港定制】默认语言 Traditional Chinese, HongKong (zh_HK)
+ro.lenovo.series = Lenovo V7
