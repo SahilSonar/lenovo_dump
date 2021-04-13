@@ -1,0 +1,34 @@
+{
+  "itemConfig": [
+    {
+      "showName": "LCD",
+      "action": "com.mmigroup.action.LCD",
+      "support": true,
+      "automatic": false,
+      "support_autoTest_autopass": false,
+      "paramconfig": {
+        "auto_switch": false,
+        "lcd_pic": [
+          "Color_R",
+          "Color_G",
+          "Color_B",
+          "Color_W",
+          "Color_BL"
+        ]
+      }
+    },
+    {
+      "showName": "LED",
+      "action": "com.mmigroup.action.BATTERYLED",
+      "support": true,
+      "automatic": false,
+      "paramconfig": {
+        "is_auto_open_led": false,
+        "supportLed": [
+            "red",
+            "green"
+        ]
+      }
+    }
+  ]
+}

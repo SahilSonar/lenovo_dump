@@ -1,0 +1,29 @@
+service interfaces.factoryAta@1.0-service /vendor/bin/hw/interfaces.factoryAta@1.0-service
+    class late_start
+    user root
+    group root sdcard_rw drmrpc
+
+ 
+#service interfaces.factoryAta@1.0-service_32 /vendor/bin/hw/interfaces.factoryAta@1.0-service_32
+#    class late_start
+#    user root
+#    group root sdcard_rw  
+
+##+bug 342273,20180403,haozhenghui,add,add ctrl modem status   
+service muxreport.close /vendor/bin/muxreport 3
+    class core
+    user radio
+    group radio cache inet misc
+    disabled
+    oneshot
+
+
+service muxreport.open /vendor/bin/muxreport 4
+    class core
+    user radio
+    group radio cache inet misc
+    disabled
+    oneshot
+
+##-bug 342273,20180403,haozhenghui,add,add ctrl modem status
+ 
